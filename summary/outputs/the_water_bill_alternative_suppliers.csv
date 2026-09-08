@@ -1,0 +1,10 @@
+supplier,export_qty_t,water_stress_tier,is_stressed,share_pct,water_headroom_rank,diversification_rank
+United States of America,26635.0,No stress,False,0.5620541953778377,0,1
+Russian Federation,449.0,No stress,False,0.009474838885851291,0,2
+Thailand,329.01,No stress,False,0.0069427989795855976,0,3
+France,26.0,No stress,False,0.0005486543675548632,0,4
+Italy,6645.13,Low stress,True,0.14022613836422493,1,5
+Kazakhstan,6167.04,Low stress,True,0.130137439649444,1,6
+TÃ¼rkiye,768.78,Low stress,True,0.01622286556495491,1,7
+Spain,21.0,Low stress,True,0.00044314391225585106,1,8
+India,27765.21,Medium stress,True,0.585903989714537,2,9

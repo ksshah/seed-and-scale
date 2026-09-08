@@ -1,0 +1,10 @@
+# Claude desktop bridge artifacts
+Claude outputs/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store

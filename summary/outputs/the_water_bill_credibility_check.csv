@@ -1,0 +1,9 @@
+metric,country,claimed_value,unit,computed_value,status
+Pakistan water withdrawal %,Pakistan,107.0,% (SDG 6.4.2),98.12,MATCH (within 10%)
+Pakistan rice water volume,Pakistan,4.97,km3,,NOT YET COMPUTED -- needs a data source or definition from Daniela
+Pakistan export share (of ? ),Pakistan,53.0,%,,NOT YET COMPUTED -- needs a data source or definition from Daniela
+Afghanistan dependency on Pakistan,Afghanistan,98.0,% dependency_pct,98.5,MATCH (within 10%)
+Kazakhstan dependency,Kazakhstan,86.0,% dependency_pct,82.6,MATCH (within 10%)
+Kenya dependency,Kenya,67.0,% dependency_pct,66.3,MATCH (within 10%)
+Egypt water withdrawal %,Egypt,113.0,% (SDG 6.4.2),112.93,MATCH (within 10%)
+Egypt import dependency,Egypt,83.0,% dependency_pct,4.6,MISMATCH -- flag before the video
