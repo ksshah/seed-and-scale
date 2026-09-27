@@ -163,7 +163,7 @@ hold the separate Water Bill and Backup Gap notebooks before they were merged in
 | `QCL_all_Rice_Data_code30.ipynb` | Shruti | Same shape as above, but export side uses FAO's own code-30 milled-equivalent accumulator as a validation path | Cross-check / validation source | Used to sanity-check code28's numbers |
 | `QCL_TCL_Cotton_Data.ipynb` | Shruti | Cotton production/trade, parallel structure to rice | Out of scope | Deprioritized (not part of the rice story) |
 | `WiD_CodesForRiceAndConfusion.docx` | Heidi | Reference: which rice item codes to use for production/export and which to avoid (29, 32, 30 as a direct substitute) and why | Complete | Cited whenever a "why code 28+31?" question comes up |
-| `datathon_initial_ideas_09072026.docx` | Daniela | Problem statement, "Water Bill" deliverable spec, meeting notes, RACI history | Living document | Source of truth for scope and the exact numbers the video needs to hit |
+| `datathon_initial_ideas_09072026.docx` | team (Daniela's main scope) | Problem statement, "Water Bill" deliverable spec, meeting notes, RACI history | Living document | Source of truth for scope and the exact numbers the video needs to hit |
 
 ### Original to-do tracker
 
@@ -177,7 +177,7 @@ hold the separate Water Bill and Backup Gap notebooks before they were merged in
 | TODO-6 | Country selector + CSV export | Packaging on top of TODO-1 through 5 | Heidi/Kaveesha | Deliverable packaging |
 | TODO-7 | Dashboard | Dashboard based on country selector | Daniela | Dashboard |
 | TODO-8 | Slides | The finished summary notebook's charts | Daniela | Presentation |
-| TODO-9 | Video script and recording/editing | The finished summary notebook's charts | team/Daniela | Presentation |
+| TODO-9 | Video script and recording/editing | End to end narrated video including problem statement, outcomes, and tools | team/Daniela | Presentation |
 
 All nine are done; the Backup Gap and Scale-Up Path work (Sections 8-9.2) came later and was
 never tracked in this table.
